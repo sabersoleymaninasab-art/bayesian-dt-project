@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+
+# Data
+data/raw/*
+!data/raw/synthetic_projects.csv
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
