@@ -82,4 +82,4 @@ and documented inside:
 ---
 
 ## 8. License
-To be added (MIT recommended).
+To be added.
