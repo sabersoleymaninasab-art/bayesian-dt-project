@@ -1,0 +1,13 @@
+# Data dictionary — synthetic_projects.csv
+
+project_id: Project identifier (string)
+baseline_cost_millions: Initial cost estimate (float)
+baseline_duration_months: Initial duration estimate (int)
+soil_quality: categorical (good/moderate/poor)
+contractor_reliability: numeric 0..1
+supply_delay_rate: integer
+design_change_rate: 0..1
+weather_risk_index: 0..1
+cost_multiplier: computed multiplier
+final_cost_millions: simulated final cost
+final_duration_months: simulated final duration
